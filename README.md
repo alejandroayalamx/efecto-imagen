@@ -1,2 +1,3 @@
-# efecto-imagen
-Imágenes con Efecto Hover
+# Imágenes con Efecto Hover
+
+[Ver en Github](https://alejandroayalamx.github.io/efecto-imagen/)
